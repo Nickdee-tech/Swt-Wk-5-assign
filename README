@@ -1,1 +1,14 @@
+Assignment: Fundamentals of Test Planning in Software Testing
+Instructions: Please answer the following questions based on your understanding of the purpose and components of a test plan.
 
+Questions:
+
+Define and Justify: In your own words, define what a Test Plan is and explain why it is considered a critical document for a software testing team, beyond just being a "to-do" list.
+
+Component Identification: A well-structured test plan is composed of several key sections. Identify and briefly describe the purpose of four essential components of a test plan.
+
+Scope Management: Scope creep is a common project risk. How does a clearly defined "Test Scope" section in a test plan help in managing this risk? Provide a specific example.
+
+Resource Planning: When creating a test plan, it is crucial to identify the necessary resources. List three categories of essential resources that should be specified in the test plan and provide an example for each.
+
+Living Document: A project manager states, "Once the test plan is signed off at the beginning of the project, it doesn't need to be changed." Do you agree with this statement? Justify your answer by explaining why a test plan should be a "living document."
